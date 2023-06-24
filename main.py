@@ -3,6 +3,7 @@ from streamlit_chat import message
 
 from bardapi import Bard
 
+#Use your own Token key as per you system settings
 token = '******************.'
 
 #Function to generate the output
